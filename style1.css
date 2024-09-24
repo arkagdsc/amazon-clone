@@ -1,0 +1,120 @@
+/*box3 of shop1*/
+.box3 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.sub-box1{
+    margin:5px 5px 5px 5px;
+    height:300px;
+    width:290px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.small-box1{
+    margin-top: 5px;
+    margin-left: 7px;
+    height:155px;
+    width:137px;
+}
+.caption{
+    background-color: white;
+    color:rgb(70, 67, 67);
+    height:15px;
+    width:135px;
+    font-size: 12px ;
+}
+.pho3{
+    background-image: url('photo3.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+
+.pho4{
+    background-image: url('photo4.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho5{
+    background-image: url('photo5.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho6{
+    background-image: url('photo6.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.box3 a{
+    margin:10px 10px 5px 10px;
+    height:20px;
+    width:266px;
+    color:rgb(60, 140, 143);
+    font-size: 14px;
+    font-weight:600;
+}
+/*box5 of shop1*/
+.box5 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.sub-box3{
+    margin:5px 5px 5px 5px;
+    height:300px;
+    width:290px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.small-box3{
+    margin-top: 5px;
+    margin-left: 7px;
+    height:155px;
+    width:137px;
+}
+.caption{
+    background-color: white;
+    color:rgb(70, 67, 67);
+    height:15px;
+    width:135px;
+    font-size: 12px ;
+}
+.pho11{
+    background-image: url('photo11.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+
+.pho12{
+    background-image: url('photo12.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho13{
+    background-image: url('photo13.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho14{
+    background-image: url('photo14.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.box5 a{
+    margin:10px 10px 5px 10px;
+    height:20px;
+    width:266px;
+    color:rgb(60, 140, 143);
+    font-size: 14px;
+    font-weight:600;
+}

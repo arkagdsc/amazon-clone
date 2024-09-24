@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border:border-box;
+}
+.navbar{
+   height:60px;
+   background-color:#0F1111;
+   color:white;
+   display:flex;
+}
+.navaddress{
+    margin:5px;
+    width:175px;
+    align-items: start;
+}
+.navlogo{
+    margin-top:5px;
+    padding-top:5px;
+    height:45px;
+    width:150px;
+}
+.logo{
+    height:42px;
+    width:95%;
+    background-image:url("photo1.jpg");
+    background-size: cover;
+}
+.box1{
+    margin-top: 10px;
+    padding-left: 17px;
+    font-size: 12px;
+    height:15px;
+    font-family: sans-serif;
+    color:#cccccc ;
+}
+.box2{
+    font-size: 16px;
+    padding-left: 5px;
+}
+.border:hover{
+    border:1px solid white;
+}
+.addicon{
+    display: flex;
+}
+.navsearch{
+    height:40px;
+    margin:10px;
+    width:550px;
+    display:flex;
+    border-radius: 5px;
+}
+.search-bar{
+    width:450px;
+    font-size: 15px;
+    border:none;
+}
+.search-icon{
+    width:50px;
+    background-color: orange;
+    display: flex ;
+    justify-content: center ;
+    align-items: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;;
+}
+.search-select{
+    background-color: #e6dede;
+    width:50px;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border:none;
+}
+.navlocation{
+    margin: 5px;
+    padding-top:13px;
+    width:75px;
+    height:37px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#0F1111;
+}
+.flag{
+    width:19px;
+    height:13px;
+    background-image:url("indiaflag.jpg");
+    background-size: cover;
+    border-radius:3px;
+}
+.language{
+    width:40px;
+    height:25px;
+    text-align: center;
+    background-color:#0F1111;
+    color:white;
+    border:none;
+}
+.signin{
+    padding-left: 4px;
+    margin: 5px;
+    width:145px;
+    height:50px;
+}
+.text1{
+    margin-top:10px;
+    font-size: 12px;
+    height:11px;
+}
+.text2{
+    font-size: 14px;
+    margin-top:5px;
+    height:7px;
+    display:flex;
+}
+.choice{
+    background-color:#0F1111 ;
+    color:grey;
+    border:none;
+    margin-top:1px;
+}
+.nav-line{
+   width:60px ;
+   margin: 5px;
+   padding-top: 15px;
+   padding-left: 4px;
+
+}
+.nav-line1{
+    font-size: 12px;
+}
+.nav-line2{
+    font-size: 14px;
+}
+.nav-cart{
+    margin:5px;
+    padding:3px;
+    padding-top:20px;
+    font-size: 14px;
+    font-weight: 700;
+}
+.nav-cart i{
+    font-size: 25px;
+}
+/*second panel*/
+.navbar2{
+    height:40px;
+    background-color: #232f3e;
+    display: flex;
+    font-family:'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    color:white;
+}
+.nav-bar-icon{
+    height:35px;
+    width:50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-bar-icon i{
+    margin:5px;
+}
+.amazon-mini-tv{
+    height:26px;
+    width:120px;
+    text-align: center;
+    padding-top:10px ;
+}
+a{
+   color:white;
+   text-decoration: none;
+   }
+.sell{
+    height:26px;
+    width:50px;
+    text-align: center;
+    padding-top:10px;
+}
+.deal{
+    height:26px;
+    width:100px;
+    text-align: center;
+    padding-top:10px;   
+}
+.best-seller{
+    height:26px;
+    width:100px;
+    text-align: center;
+    padding-top:10px;
+}
+.mobiles{
+    height:26px;
+    width:70px;
+    text-align: center;
+    padding-top:10px;
+}
+.prime1{
+    height:26px;
+    width:70px;
+    text-align: center;
+    padding-top:10px;
+}
+.fasion{
+    height:26px;
+    width:70px;
+    text-align: center;
+    padding-top:10px;
+}
+.electronics{
+    height:26px;
+    width:80px;
+    text-align: center;
+    padding-top:10px;
+}
+.customer-service{
+    height:26px;
+    width:150px;
+    text-align: center;
+    padding-top:10px;
+}
+.fresh{
+    width:60px;
+    height:35px;
+    padding-left:10px;
+    background-color: #232f3e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.choice2{
+    background-color:#232f32 ;
+    color:grey;
+    border:none;
+    margin-top:1px;
+}
+.choice3{
+    background-color:#232f32 ;
+    color:grey;
+    border:none;
+}
+.primeday{
+    background-image: url("photo2.jpg");
+    background-size: cover;
+    width:400px;
+    height:35px;
+    right: 1px;
+    margin-left: 30px;
+}
+/*hero section*/
+.hero-section{
+    background-image: url(hero-section.jpg);
+    background-size: cover;
+    height:300px;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+}
+.hero-message{
+    font-size:15px;
+    font-weight: 500;
+    background-color: white;
+    color: black;
+    border:2px solid black;
+    width:98%;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-message a{
+    color:blue;
+}
+.shopping1{
+    background-color:rgb(221, 223, 228);
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly; 
+}
+.shop1{
+    height:400;
+    background-color: white;
+    width:24%;
+}

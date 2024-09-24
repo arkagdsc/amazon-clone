@@ -1,0 +1,71 @@
+.shopping2{
+    background-color: #e7e8ee;
+    height:400px;
+    padding:5px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.shop2{
+    margin-top: 15px;
+    height:350px;
+    width:24%;
+    background-color: white;
+}
+.box7 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.box8 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.box9 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.box10 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.pho19{
+    background-image: url(photo19.jpg);
+    background-size: cover;
+    height:230px;
+    width:270px;
+    margin:15px;
+}
+.pho20{
+    background-image: url(photo20.jpg);
+    background-size: cover;
+    height:230px;
+    width:270px;
+    margin:15px;
+}
+.pho21{
+    background-image: url(photo21.jpg);
+    background-size: cover;
+    height:230px;
+    width:270px;
+    margin:15px;
+}
+.pho22{
+    background-image: url(photo22.jpg);
+    background-size: cover;
+    height:230px;
+    width:270px;
+    margin:15px;
+}
+.explore{
+    margin:10px 10px 5px 10px;
+    height:20px;
+    width:266px;
+    color:rgb(60, 140, 143);
+    font-size: 14px;
+    font-weight:600;
+}
+

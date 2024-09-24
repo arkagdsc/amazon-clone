@@ -1,0 +1,120 @@
+/*box4 of shop1*/
+.box4 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.sub-box2{
+    margin:5px 5px 5px 5px;
+    height:300px;
+    width:290px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.small-box2{
+    margin-top: 5px;
+    margin-left: 7px;
+    height:155px;
+    width:137px;
+}
+.caption{
+    background-color: white;
+    color:rgb(70, 67, 67);
+    height:15px;
+    width:135px;
+    font-size: 12px ;
+}
+.pho7{
+    background-image: url('photo7.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+
+.pho8{
+    background-image: url('photo8.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho9{
+    background-image: url('photo9.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho10{
+    background-image: url('photo10.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.box4 a{
+    margin:10px 10px 5px 10px;
+    height:20px;
+    width:266px;
+    color:rgb(60, 140, 143);
+    font-size: 14px;
+    font-weight:600;
+}
+/*box6 of shop1*/
+.box6 h3{
+    margin:10px 10px 0px 10px;
+    height:40px;
+    width:266px;
+}
+.sub-box4{
+    margin:5px 5px 5px 5px;
+    height:300px;
+    width:290px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.small-box4{
+    margin-top: 5px;
+    margin-left: 7px;
+    height:155px;
+    width:137px;
+}
+.caption{
+    background-color: white;
+    color:rgb(70, 67, 67);
+    height:15px;
+    width:135px;
+    font-size: 12px ;
+}
+.pho15{
+    background-image: url('photo15.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+
+.pho16{
+    background-image: url('photo16.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho17{
+    background-image: url('photo17.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.pho18{
+    background-image: url('photo18.jpg');
+    background-size: cover;
+    height:100px;
+    width:137px;
+}
+.box6 a{
+    margin:10px 10px 5px 10px;
+    height:20px;
+    width:266px;
+    color:rgb(60, 140, 143);
+    font-size: 14px;
+    font-weight:600;
+}
